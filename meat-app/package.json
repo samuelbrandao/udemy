@@ -2,7 +2,7 @@
   "name": "meat",
   "version": "1.0.0",
   "license": "MIT",
-  "angular-cli": {},
+  "angular/cli": {},
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -33,7 +33,7 @@
     "zone.js": "0.8.4"
   },
   "devDependencies": {
-    "@angular/cli": "1.2.7",
+    "@angular/cli": "6.1.5",
     "@angular/compiler-cli": "4.0.0",
     "@types/jasmine": "2.5.38",
     "@types/node": "7.0.5",
